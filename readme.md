@@ -15,9 +15,9 @@ imprimir en pantalla su equivalente en farengeit.
 Crear un programa que pida al usuario ingresar la temperatura actual. Al ingresarla se debe imprimir un texto que diga
 "La temperatura es (temperatura ingresada por el usuario)". El color del texto dependera de la temperatura:
 - de -50 a 15 en AZUL
-- de 15 a 21 en AMARILLO
-- de 21 a 30 en NARANJA
-- de 30 a 40 en ROJO
+- de 16 a 21 en AMARILLO
+- de 22 a 30 en NARANJA
+- de 31 a 40 en ROJO
 
 ### EJERCICIO 4
 Crear un programa con un input de tipo color. Segun el color que elige el usuario, se debe cambiar el color de fondo del documento al
